@@ -14,7 +14,7 @@ void main() {
         cookbookId: '',
         id: '',)})}
 
-
+// version control system
     var recipe = Recipe(
         cookbookId: 'JawadCookBook',
         id: '',
@@ -33,7 +33,7 @@ void main() {
         description: '',
         version: 'v0.1.3',
         coinInputs: [],
-
+// supported devices
 
              ], itemModifyOutputs: []),
         outputs: [
